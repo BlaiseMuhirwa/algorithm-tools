@@ -1,0 +1,3 @@
+[submodule "src/flatnav"]
+	path = src/flatnav
+	url = https://github.com/BlaiseMuhirwa/flatnav.git
